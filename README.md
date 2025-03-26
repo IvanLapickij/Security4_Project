@@ -1,4 +1,4 @@
-# chocolateSprint2
+# An Analysis of Client/Server Security Techniques
 This is my 4th year software security assignment report where I compare and contrast 
 different cryptographic methods to ensure authentication, integrity and confidentiality in 
 client/server settings. 
